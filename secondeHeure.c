@@ -1,3 +1,6 @@
+/*
+	consersion des secondes en heures, minutes et secondes
+*/
 #include<stdio.h>
 int main(){
 	int h,m,s;
